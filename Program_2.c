@@ -8,10 +8,15 @@
 //10
 
 #include<stdio.h>
-int main()
+void main()
 {
-  int n;
-scanf("%d", &n);
+  int a;
+//Decleade Integer n and write scanf code bellow 
+
+scanf("%d", &a);
+
+//if you write correcr code your value will print
+printf("%d",a);
+printf("Good Job...");
 
 }
-
